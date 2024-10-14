@@ -6,8 +6,9 @@ I'm a passionate Software Engineer with over 15 years of experience in developin
  - 🌱 I’m currently learning; Cloud, NestJS.
  - 💬 Ask me about **Html, Css, Sass, Bootstrap, Javascript, Typescript, React,  PHP,  Laravel,  C#, .NET, Java, Scrum, CI/CD, TDD, DDD, Docker**
 
-<h3 align="left">Let's connect and create something amazing together!</h3>
-<p align="left">
+### Let's connect and create something amazing together!
+
+<p align="center">
     <a href="https://www.linkedin.com/in/ktorresno/" rel="nofollow">
         <img src="https://camo.githubusercontent.com/7fee771b415a6f144501304c2c4074aa62a0dd96ddc0f8c0aafd95ac0af584c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
     </a>
@@ -16,6 +17,13 @@ I'm a passionate Software Engineer with over 15 years of experience in developin
     </a>
 </p>
 
+### My GitHub Stats
+
+![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktorresno&theme=ambient_gradient&show_icons=true)
+
+![Karen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ktorresno&amp;theme=dark&amp;hide_border=false&amp;&amp;layout=compact)
+
+[![Karen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ktorresno&theme=react-dark)](https://github.com/ktorresno/github-readme-activity-graph)
 
 <!--
 **ktorresno/ktorresno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
