@@ -6,7 +6,11 @@ I'm a passionate Software Engineer with over 15 years of experience in developin
  - 🌱 I’m currently learning; Cloud, NestJS.
  - 💬 Ask me about: 
 
-![Typescript icon](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg?raw=true&sanitize=true)(https://www.typescriptlang.org/)
+<!-- ![Typescript icon](https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg?raw=true&sanitize=true)(https://www.typescriptlang.org/) -->
+
+<picture>
+    <img align="center" alt="TypeScript icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg?raw=true&sanitize=true">
+</picture>
 
 [![JS](https://camo.githubusercontent.com/5a5f5779919b90579d121551d0521cda87c06534a0218a2f21883c438daf6cc1/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6a6176617363726970742e737667)](https://www.javascript.com/)
  || 
