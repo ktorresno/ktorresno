@@ -17,12 +17,15 @@ I'm a passionate Software Engineer with over 15 years of experience in developin
     </a>
 </p>
 
+
 ### My GitHub Stats
 
-![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktorresno&theme=ambient_gradient&show_icons=true)
+![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktorresno&theme=ambient_gradient&show_icons=true&rank_icon=percentile)
 
 ![Karen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ktorresno&amp;theme=dark&amp;hide_border=false&amp;&amp;layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktorresno)
 
+[![Gist Card].                   (https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 [![Karen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ktorresno&theme=react-dark)](https://github.com/ktorresno/github-readme-activity-graph)
 
 <!--
