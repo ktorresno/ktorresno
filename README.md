@@ -23,10 +23,7 @@ I'm a passionate Software Engineer with over 15 years of experience in developin
 ![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktorresno&theme=holi&show_icons=true&rank_icon=percentile)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktorresno&theme=holi&layout=compact)
 
-
-![Karen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ktorresno&amp;theme=dark&amp;hide_border=false&amp;&amp;layout=compact)
-
-[![Karen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ktorresno&theme=react-dark)](https://github.com/ktorresno/github-readme-activity-graph)
+![Karen's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ktorresno&theme=holi)clean up
 
 <!--
 **ktorresno/ktorresno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
