@@ -20,8 +20,8 @@ I'm a passionate Software Engineer with over 15 years of experience in developin
 
 ### My GitHub Stats
 
-![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktorresno&theme=ambient_gradient&show_icons=true&rank_icon=percentile)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktorresno&theme=ambient_gradient&layout=compact)
+![Karen's GitHub stats](https://github-readme-stats.vercel.app/api?username=ktorresno&theme=holi&show_icons=true&rank_icon=percentile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ktorresno&theme=holi&layout=compact)
 
 
 ![Karen's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ktorresno&amp;theme=dark&amp;hide_border=false&amp;&amp;layout=compact)
