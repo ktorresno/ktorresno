@@ -25,12 +25,8 @@ I'm a passionate Software Engineer with over 15 years of experience in developin
 
 ### Let's connect and create something amazing together!
 
-<p align="center">
+[![@ktorresno](/assets/images/linkedin-button.svg?raw=true&sanitize=true)][13] [![@ktorresno](/assets/images/gmail-button.svg?raw=true&sanitize=true)][14]
 
-[![@ktorresno](https://camo.githubusercontent.com/7fee771b415a6f144501304c2c4074aa62a0dd96ddc0f8c0aafd95ac0af584c1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/ktorresno/)
-
-[![@ktorresno](https://camo.githubusercontent.com/001d7e9d9d991d84455ec2af45aaeb8d026b3dbe80613daca5dda51c3523befa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d776869746526636f6c6f723d726564)](mailto:ktorresno@gmail.com)
-</p>
 
 ### My GitHub Stats
 
@@ -50,3 +46,5 @@ I'm a passionate Software Engineer with over 15 years of experience in developin
 [10]: https://www.mongodb.com/
 [11]: https://www.mysql.com/
 [12]: https://www.postgresql.org/
+[13]: https://www.linkedin.com/in/ktorresno/
+[14]: mailto:ktorresno@gmail.com
